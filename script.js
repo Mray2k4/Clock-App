@@ -7,7 +7,10 @@ let months = ['January', 'Feburay', 'March', 'April', 'May', 'June', 'July', 'Au
 let date = days[newDate.getDay()] + ',' + ' '  + months[newDate.getMonth()]  + ' ' + newDate.getDate() + ' ' + newDate.getFullYear();
 document.getElementById('todaydate').innerHTML = date;
 
-setInterval(function() {
-let time = newDate.getHours() + ':' + newDate.getMinutes() + ':' + newDate.getSeconds();
+
+function clock() {
+  let newDate = new Date();
+  let time = newDate.getHours() + ':' + newDate.getMinutes() + ':' + newDate.getSeconds();
 document.getElementById('todaytime').innerHTML = time;
-}, 1000);
+}
+setInterval(clock, 1000);
