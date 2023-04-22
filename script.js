@@ -10,18 +10,4 @@ document.getElementById('todaydate').innerHTML = date;
 setInterval(function() {
 let time = newDate.getHours() + ':' + newDate.getMinutes() + ':' + newDate.getSeconds();
 document.getElementById('todaytime').innerHTML = time;
-}, 1000)
-
-//Date and Time Display
-let d = new Date("October 13, 2014");
-document.getElementById('clock').innerHTML = d;
-
-
-/*
-let count = 0;
-let clock = document.getElementById('todaytime');
-function tick(clock) {
-    console.log(count++)
-    
-}
-setInterval(tick, 1000,); */
+}, 1000);
