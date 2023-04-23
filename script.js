@@ -20,7 +20,7 @@ function clock() {
     hours = '0' + hours;
   } else {
     hours;
-  }
+  };
 
   // Minutes with leading zero
   if (min < 10) {
@@ -34,7 +34,7 @@ function clock() {
     sec = '0' + sec;
   } else {
     sec;
-  }
+  };
 
   // AM/PM
   if (hours >= 12) {
