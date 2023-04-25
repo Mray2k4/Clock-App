@@ -6,7 +6,7 @@
 Check it out [here](https://mray2k4.github.io/Clock-App/)
 
 
-https://user-images.githubusercontent.com/99221965/234165130-c9df9e50-447d-44b1-87f8-d152b23a2038.jpg
+![Front Page]https://user-images.githubusercontent.com/99221965/234165130-c9df9e50-447d-44b1-87f8-d152b23a2038.jpg
 
 
 #### Summary
