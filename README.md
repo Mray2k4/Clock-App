@@ -15,4 +15,4 @@ This project was challenging for me, especially when it came to making the clock
 </p>
 
 #### Author
-* **Marque Ray** - Software Developer in training
+* **Marque Ray** - Software Developer student
