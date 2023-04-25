@@ -3,7 +3,7 @@
  A basic clock app with the dates and months writen out. It's mainly Javascript with very little html and css.
 </p>
 
-Check it out [here]https://mray2k4.github.io/Clock-App/
+Check it out https://mray2k4.github.io/Clock-App/
 
 #### Summary
 <p>
@@ -12,3 +12,4 @@ This project was challenging for me, especially when it came to making the clock
 
 #### Author
 * **Marque Ray** - Software Developer in training
+![alt text] https://mray2k4.github.io/Clock-App/
